@@ -37427,7 +37427,7 @@ f=A.bs(n.h(f,"role"))
 o.y=f
 A.mG().$1("ENVELOPE 2: "+A.a3n(A.aH(["answer",m,"blue",l,"green",k,"id",p,"isHard",j,"no",q,"positionX",i,"positionY",h,"red",g,"role",f],t.N,t.z)))
 A.mG().$1("HISTORY (before): "+r.length)
-if(s.Q==="HOST")if((r.length===0||s.w!==B.b.gM(r).d)&&f==="PLAYER"){r.push(o)
+if(s.Q==="HOST")if(f==="PLAYER"){r.push(o)
 s.aD()
 s.Fw()}if(s.Q==="PLAYER"){if(o.y==="HOST"){if(s.w!==o.d){s.H8()
 s.w=o.d
